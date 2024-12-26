@@ -1,6 +1,4 @@
-Here is the complete **English version** of the README for your project:
 
----
 
 # **College Competition Management System**
 
