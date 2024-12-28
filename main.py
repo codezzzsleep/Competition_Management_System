@@ -28,7 +28,7 @@ import pandas as pd
 
 # ---------------------- 配置部分 ----------------------
 
-DATABASE_URL = "mysql+pymysql://zzzsleep:DvX6kyEmWUWnQdAx@mysql.sqlpub.com:3306/zzzsleep"
+#mysql配置
 
 # 创建数据库引擎
 engine = create_engine(DATABASE_URL, echo=True, pool_pre_ping=True)
